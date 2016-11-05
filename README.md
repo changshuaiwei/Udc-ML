@@ -1,2 +1,2 @@
 # Udc-ML
-udacity machine learning projects
+My solution of all required projects from udacity machine learning nanodegree.
